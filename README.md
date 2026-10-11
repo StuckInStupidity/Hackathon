@@ -22,6 +22,10 @@ Automatiser la vérification des factures et de leurs justificatifs pour la dét
 - **Extraction OCR** : extraction des données du jpeg via l'API gemini et du prompt system
 - **Rapports automatisés** : envoyer au manager un rapport hebdomadaire des enregistrements d'anomalies
 
+<img width="2560" height="1500" alt="Screenshot 2026-10-11 145647" src="https://github.com/user-attachments/assets/5dcbbbe5-8bc5-400f-a20c-fa80c6701961" />
+
+<img width="2560" height="1500" alt="Screenshot 2026-10-11 145720" src="https://github.com/user-attachments/assets/233a694e-48fb-461d-bc83-285eed656372" />
+
 
 
 
