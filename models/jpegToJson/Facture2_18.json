@@ -1,0 +1,136 @@
+{
+  "cerfa_identifier": "12278*01",
+  "cerfa_code": "S3404",
+  "performers": [
+    {
+      "number": "493700710",
+      "has_signature": true
+    },
+    {
+      "number": "491702593",
+      "has_signature": true
+    },
+    {
+      "number": "491053989",
+      "has_signature": true
+    }
+  ],
+  "tier_number": "490002037",
+  "lot_number": "351",
+  "invoice_number": "261034518",
+  "client_number": "2540699281018",
+  "services": [
+    {
+      "type": "type_3",
+      "number": "4158"
+    },
+    {
+      "type": "type_4",
+      "number": "B"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4",
+      "number": "APC"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "JCPD001"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "YYYY405"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "YYYY405"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "JCLE002"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4",
+      "number": "CS"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4",
+      "number": "CS"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "JCPD001"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "YYYY405"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "YYYY405"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4m",
+      "number": "JCLE002"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    },
+    {
+      "type": "type_4",
+      "number": "B"
+    },
+    {
+      "type": "type_4s",
+      "number": "4158"
+    }
+  ],
+  "total_local_service_fee": 101322,
+  "total_outsider_service_fee": 93668,
+  "total_service_fee": 194990,
+  "has_signature": true
+}

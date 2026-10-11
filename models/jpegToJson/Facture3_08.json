@@ -1,0 +1,32 @@
+{
+  "cerfa_identifier": "12278*01",
+  "cerfa_code": "S3404",
+  "performers": [
+    {
+      "number": "490007499",
+      "has_signature": false
+    }
+  ],
+  "tier_number": "490007499",
+  "lot_number": "925",
+  "invoice_number": "491908",
+  "client_number": "1510999173008",
+  "services": [
+    {
+      "type": "type_3",
+      "number": "9603"
+    },
+    {
+      "type": "type_4m",
+      "number": "JVRP008"
+    },
+    {
+      "type": "type_4s",
+      "number": "9603"
+    }
+  ],
+  "total_local_service_fee": 39830,
+  "total_outsider_service_fee": 5048,
+  "total_service_fee": 44878,
+  "has_signature": true
+}
